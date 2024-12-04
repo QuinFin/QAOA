@@ -27,6 +27,7 @@ from solver import Solver
 from qiskit_ibm_runtime import QiskitRuntimeService
 from qiskit_algorithms import QAOA
 
+print("Git test the push")
 class QAOArunner():
     """
     A class with all the functionality needed to create quantum circuit and run using the QAOA algorithm.
